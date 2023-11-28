@@ -8,6 +8,6 @@ public class Dog extends Pets {
     }
     
     public String Color() {
-    return "black";
+    return "orange";
 }
 }
