@@ -3,7 +3,7 @@ package animals;
 
 public abstract class Pets {
     
-    String name;
+    private String name;
     
     public Pets(String name) {
         this.name = name;
